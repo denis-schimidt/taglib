@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings
+.metadata
+**/target/**
+**/test-output/**
+ejbModule/**
